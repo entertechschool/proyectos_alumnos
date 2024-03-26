@@ -1,0 +1,176 @@
+body
+{
+    margin: 20;
+    padding: 90px;
+    background-image: url('Untitled_Artwork-3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0px;
+    height: 200vh;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /*background-color: #ffde3be0;
+    width: 80vw;
+    margin: 10px auto;*/
+}
+h1{
+    background-color: #000000e0;
+    text-align: justify;
+    margin: auto;
+    padding-left: 38%;
+    display:block;
+    border: 5px rgb(255, 255, 255) solid;
+    color: rgba(255, 236, 23, 0.905);
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    margin-bottom: 10%;
+    background-color: #ffde3be0;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 15px;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* align-items: center;  */
+}
+h2{
+    margin-bottom: 1px;
+    border: 0px rgb(0, 0, 0) solid;
+    background-color: #000000e0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 20px;
+    color: #ffde3be0;
+}
+header{
+    margin: auto;
+}
+section#intro{
+    margin: auto;
+    text-align: justify;
+    justify-content: center;
+    background-color: black;
+}
+section{
+    margin: auto;
+    text-align: justify;
+    justify-content: center;
+}
+img{
+    border-radius: 20%;
+    display: block;
+    border: 5px black solid;
+    width: 200px;
+    height: 300px;
+    margin: auto;
+}
+.image img{
+    width: 600px;
+    height: 600px;
+}
+img:hover{
+    cursor: pointer;
+    border: 5px #ffffffe0 solid;
+}
+footer{
+    margin: auto;
+}
+.wiki{
+    color: black;
+    text-decoration-line: none;
+}
+.wiki:hover{
+    color:#ffde3be0;
+}
+ol {
+    background-color: #000000e0;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    text-align: justify;
+    justify-content: center;
+}
+section ol{
+    color: #ffde3be0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+section#contacto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pdf{
+    max-width: 400px;
+    max-height: 400px;
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    scroll-margin-top: 900px;
+    scroll-margin-bottom: 900px
+}
+video {
+    padding-left: 30%;
+}
+/*div {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;  
+}
+/*div{
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    float: left;
+    margin: 05px;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0px 10px 10px;
+    rgba (0,0,0,0.1);
+    transition:all 0,3s ease-out
+}
+.wrapper.button:hover{
+    width: 200px;
+}
+.wrapper.button.icon{
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    border-radius: 50px;
+    box-sizing: border-box;
+    line-height: 60px;
+    transition: all 0.3s ease-out;
+}
+.wrapper.button:nth-child(1)
+hover.icon{background: #4267B2;}
+.wrapper.button:nth-child(2)
+hover.icon{background: #1DA1F2;}
+.wrapper.button:nth-child(3)
+hover.icon{background: #E1306C;}
+.wrapper.button.icon i{
+    font-size: 25px;
+    line-height: 60px;
+    transition: all 0.3s ease-out;
+}
+.wrapper.button:nth-child(1)
+span{color: #4267B2}
+.wrapper.button:nth-child(2)
+span{color: #1DA1F2}
+.wrapper.button:nth-child(3)
+span{color:  #E1306C}*/
