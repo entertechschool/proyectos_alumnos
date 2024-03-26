@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, Helvetica, sans-serif; 
+    width: 75vw; 
+    margin: 0px auto; 
+    text-align: justify;
+    color:white;
+    background-color:black 
+    }
+    h1 {
+        color: plum;
+    }
+    h2{
+        color: thistle;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    img {
+        border-radius: 50% ; 
+        display: block; 
+        margin: 40px auto;
+        width: 60%;
+        height: auto;
+        
+    }
+    img:hover {
+        cursor: pointer; 
+        transform: scale(1.1);
+        
+    }
+    .palabra1 {
+        color: plum;
+    }
+    
+    .navbar{
+        display: flex;
+        list-style-type: none;
+        justify-content: space-between;
+        gap: 20px;
+        background-color: #7F4870;
+        overflow: hidden;
+        padding: 10px 15px ;
+        border-radius: 20px;
+
+    }
+    
+    .boton{
+        display: flex;
+        list-style-type: none;
+        justify-content: space-around;
+    }
+    .bu {
+        gap: 20px;
+        background-color: #7F4870;
+        overflow: hidden;
+        padding: 10px 15px ;
+        border-radius: 20px;
+    }
+    .buu{
+        gap: 20px;
+        background-color: #7F4870;
+        overflow: hidden;
+        padding: 10px 15px ;
+        border-radius: 20px;
+
+    }
+    .bu:hover {
+        transform: scale(1.2);
+    }
+    .buu:hover {
+        transform: scale(1.2);
+    }
+
+    
+    a{
+        text-decoration: none;
+        color: white;
+    }
+
+    a:hover {
+        color: fuchsia;
+    }
