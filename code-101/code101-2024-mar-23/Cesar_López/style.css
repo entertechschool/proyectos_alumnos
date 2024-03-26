@@ -1,0 +1,46 @@
+body {
+    width: 70vw;
+    margin: 0px auto;
+}
+img {
+    border-radius: 10px;
+}
+h2 {
+    color: blue;
+}
+p {
+    text-align: justify;
+}
+.verde {
+    color: green;
+}
+.red {
+    color: red;
+}
+nav {
+    background-color: gray;
+    border-radius: 20px;
+}
+nav ol{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+nav ol li a {
+    text-decoration: none;
+    color: bisque;
+}
+#perfil ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+#perfil ul li {
+    list-style: none;   
+}
+#perfil ul li a {
+    text-decoration: none;
+    background-color: gray;
+    color:green;
+    padding: 10px;
+    border-radius: 5px;
+}
