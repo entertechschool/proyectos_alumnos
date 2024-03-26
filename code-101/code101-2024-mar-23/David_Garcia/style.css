@@ -1,0 +1,42 @@
+body{
+    width: 70vw;
+    margin: 0px auto;
+}
+h1{
+    color: blue;
+    text-align: left;
+}
+h2{
+    color: black;
+    text-align: left;
+}
+img{
+    border-radius: 50px; 
+    width: 150px;   
+    text-align: center; 
+}
+span{
+    color: gray;
+    font-weight: 800;
+}
+p{
+    text-align: justify;
+}
+nav{
+    justify-content: space-between;
+    padding: auto;
+    list-style: none;
+    border-radius: 20px;
+    background-color: gray;
+}
+nav ol li a{
+    text-decoration: none;
+    color: black;
+    justify-content: center;
+}
+nav ol{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 20px;
+}
