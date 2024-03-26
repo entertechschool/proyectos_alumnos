@@ -1,0 +1,60 @@
+body {
+    width: 70vw;
+    margin: 0px auto;
+    background-color: rgb(186, 189, 188);
+} 
+
+img {
+    border-radius: 150px;
+}
+hr {
+    color: black;
+}
+span{
+    color: blue;
+    font-weight: 800;
+}
+p {
+    text-align: justify;
+}
+.verde{
+    color: green;
+}
+.rojo{
+    color: red;
+}
+nav ol{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 10px;
+}
+nav ol li a {
+    text-decoration-line: none;
+    color: blanchedalmond;
+    text-transform: capitalize ;
+
+}
+nav {
+    background-color: rgb(17, 17, 16);
+    border-radius: 20px;
+    
+}
+
+#perfil ul{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#perfil ul li {
+    list-style: none;
+    background-color: rgb(17, 17, 16);
+    border-radius: 10px;
+    padding: 10px;
+}
+#perfil ul a {
+    color: blanchedalmond;
+    
+
+}
