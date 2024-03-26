@@ -1,6 +1,6 @@
 # Proyectos por alumno
 
-## Lista proyectos
+## Lista de proyectos
 
 - [Angel Paz](https://github.com/alonsoyiyi/reading-notes/tree/main/db-eternal).
 - [Omar Torbisco](https://github.com/omartpiza/HTML)
