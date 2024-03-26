@@ -1,0 +1,30 @@
+body {
+    width: 70vw;
+    margin: 0px auto;
+    ;
+  }
+
+  img {
+    border-radius: 2000000px;
+  }
+  span {
+    color: red;
+    font-weight: 900;
+  }
+  p {
+    text-align: justify;
+
+    .verde {
+      color: blueviolet;
+    }
+  }
+
+    nav ol li a{
+                   text-decoration: none; 
+                   color: chartreuse;
+    }
+     nav ol li{
+                  float: left;
+
+     }
+  
