@@ -1,0 +1,46 @@
+  body{
+            width: 600px;
+            margin: 0px auto; 
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        img{
+            border-radius: 50%;
+            width: 100px;
+        }
+        .Rojo{
+            color: green;
+        }
+        .verde{
+            color: orange;
+            font-weight: bold;  
+        } 
+        .azul{
+            color: blueviolet;
+        }
+        nav ol{
+            display: flex;
+            justify-content: space-evenly;
+            list-style: none;
+            background-color: purple;
+            border-radius: 20px;
+            padding: 5px
+        }
+        
+        nav ol li a{
+            color: white;
+            text-decoration: none;
+        }
+   
+        #perfil ul{
+            display: flex;
+            justify-content: space-around;
+            list-style: none;
+        }
+
+        #perfil ul li a{
+            color: white;
+            text-decoration: none;
+            background-color: purple;
+            border-radius: 20px;
+            padding: 10px;
+        }
