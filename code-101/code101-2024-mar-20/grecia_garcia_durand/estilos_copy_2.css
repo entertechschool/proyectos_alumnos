@@ -1,0 +1,77 @@
+body{
+    width: 600px; 
+    margin: 0px auto
+}
+
+nav {
+    justify-content: center;
+}
+nav ol {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: pink;
+    border-radius: 20px;
+}
+nav ol li {
+    list-style: none;
+}
+nav ol li a{
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+    font-family: fantasy;
+    font-size: x-large;
+}
+
+img{
+    border-radius: 100px;
+    width:200px
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+ul{
+    justify-content: center; 
+}
+ul li{
+    display: flex;
+    justify-content: space-evenly
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    justify-content: space-evenly;
+    background-color: pink;
+    border-radius: 20px;
+}
+
+span{
+    color: rgb(242, 147, 255);
+}
+
+.melon{
+    color: rgb(255, 156, 81);
+    font-weight: 900;
+}
+
+.morado{
+    color: rgb(173, 110, 164);
+}
+.pink{
+    color: rgb(238, 75, 127);
+    font-weight: 900;
+}
+footer{
+    color: palevioletred;
+}
+
+/* span {
+    color: blue;
+    font-weight: 800;
+}
+
+#texto_especial {
+    color: darkblue;
+    background-color: lightblue;
+    font-weight: 800;
+} */
