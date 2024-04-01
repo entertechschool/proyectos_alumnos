@@ -1,0 +1,38 @@
+body {
+    width: 600px;
+    margin: 0px auto;
+}
+img{border-radius: 50%;
+    width:50px
+}
+span{
+    color:blue;
+    font-weight: 800;
+}
+.verde{
+    color: green;}
+
+
+nav ol {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    background-color: gray;
+    border-radius: 20px;
+    padding: 5px;
+}
+nav ol li a{
+    color:blanchedalmond;
+    text-decoration:none;
+}
+#perfil ul {display: flex;
+            justify-content: space-around;
+            list-style: none;}
+            
+#perfil li a{
+    color: white;
+    text-decoration: none;
+    background-color: green;
+    border-radius: 20px;
+    padding: 10px;
+}
