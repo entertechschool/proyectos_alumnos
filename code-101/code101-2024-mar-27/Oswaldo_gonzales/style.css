@@ -1,0 +1,50 @@
+body{
+    font-family: 'Courier New', Courier, monospace; 
+    width: 70vw; 
+    margin: 0px auto;
+}
+
+nav ol{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: brown;
+}
+
+nav ol li a{
+    color: white;
+    text-decoration: none;
+}
+img{
+    border-radius: 80%; 
+    width: 150px;
+    display: flex;
+    justify-content: center; 
+}
+
+        
+.boton{
+    background-color: orange; 
+    color: white; 
+    text-decoration: none; 
+    padding: 5px 15px; 
+    border-radius: 20px; 
+    box-shadow: 3px 3px 12px gray ;
+    
+}
+
+div{
+    display: flex;
+    justify-content: space-evenly;
+}
+.futbol{
+    color: green;
+    font-weight: bold;
+}
+
+.tec{
+    color: purple;
+    font-weight: bold;
+}
