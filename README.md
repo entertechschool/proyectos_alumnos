@@ -3,5 +3,5 @@
 El repositorio que se describe es una recopilación organizada de la mayoria de proyectos realizados por los alumnos de los cursos Code 101 y 102, clasificados por fecha y nombre de cada curso. Esta estructura permite una visualización ordenada y cronológica de los proyectos desarrollados en cada curso.
 
 ## Indice
-1. [Code 101](./code-101)
+1. [Code-101](./code-101)
 2. [Code-102](./code-102)
