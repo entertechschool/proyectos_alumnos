@@ -1,0 +1,49 @@
+header{
+    width: 600px;
+    margin: 0px auto;
+    text-align: center;
+}
+header img{
+        border-radius: 200px;
+        margin: 10px;
+        width: 80px;
+}
+main{
+    width: 600px;
+    margin: 0px auto;
+    position:relative;
+}
+.mantra{
+    border: 1px solid blueviolet;
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+footer:hover{
+    background-color:  rgb(13, 140, 140);
+}
+footer{
+    text-align: center;
+    margin: 0px;
+    width: 600px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: rgb(6, 90, 96);
+    transition: backround-color 1s
+}
+footer ul li{
+    display: inline-block;
+    padding: 10px;
+    margin: 0px auto;
+}
+footer ul li a{
+    text-decoration: none;
+    color: rgb(250, 191, 191);
+}
+.viaje{
+    text-align: center;
+}
+h2{
+    color: crimson;
+}
